@@ -1,3 +1,5 @@
+FROM andrewosh/binder-base
+
 MAINTAINER Jonas Kersulis <kersulis@umich.edu>
 
 USER root
