@@ -1,3 +1,5 @@
+MAINTAINER Jonas Kersulis <kersulis@umich.edu>
+
 USER root
 
 # Add Julia dependencies
